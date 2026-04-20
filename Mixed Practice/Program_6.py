@@ -55,14 +55,14 @@ elif choice == "3":
 
 elif choice == "4":
 
-a = int(input("Enter your Born Year -_- "))
-b = int(input("Enter Current Year -_- "))
+    a = int(input("Enter your Born Year -_- "))
+    b = int(input("Enter Current Year -_- "))
 
-c = b-a
+    c = b-a
 
-print(f"You are {c} yeras old")
+    print(f"You are {c} yeras old")
 
-elif choice == "5"
+elif choice == "5":
 
 a = int(input("Enter the Number -_- "))
 
