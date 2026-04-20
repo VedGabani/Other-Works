@@ -2,7 +2,7 @@
 
 print("----- Number is between 1 to 100 -----\n")
 
-num = int(input("Enter a number: "))
+num = int(input("Enter a number -_- "))
 
 if 1 <= num <= 100:
     print("The number is between 1 and 100 ✅")
