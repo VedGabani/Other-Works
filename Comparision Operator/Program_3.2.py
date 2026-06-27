@@ -1,5 +1,3 @@
-# Check Equal or Not
-
 print("----- Equal or Not -----\n")
 
 a = int(input("Enter First Number -_- "))
